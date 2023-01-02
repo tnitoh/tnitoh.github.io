@@ -6,5 +6,4 @@ Toshihide Itoh, Ph.D. is a medical imaging scientist in X-ray computed tomograph
 ## Links
 [Research map](https://researchmap.jp/tnitoh?lang=en)
 
-
 [ORCID](https://orcid.org/0000-0002-0283-1225)
