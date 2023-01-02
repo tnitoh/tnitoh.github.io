@@ -1,4 +1,4 @@
 # Toshihide Itoh's web page
 
 ## About me
-Toshihide Itoh, Ph.D. is a scientist of medical imaging. I have worked in the fields of X-ray simulation, detector physics, data processing, and image reconstruction.
+Toshihide Ito, Ph.D., is a medical imaging scientist for computed tompgrpahy whose research interests include X-ray physics, X-ray simulation, detector physics, data processing, and image reconstruction. 
