@@ -12,9 +12,9 @@ Chief Scientist of X-ray computed tomography at CT-R&D, Siemens Healthineers, To
 
 ## Upcoming talks
 
-- "Photon counting CT" at JSRT, April 14, 2023 (Yokohama, Kanagawa)
-- "Photon counting CT" at JSMP, April 15, 2023 (Yokohama, Kanagawa)
-- "Photon counting CT" at JRC, April 15, 2023 (Yokohama, Kanagawa)
+- "Frontiers in Computed Tomography: Research Directions with Photon Counting - Perspectives from R&D" at JSRT, April 14, 2023 (Yokohama, Kanagawa)
+- "Principle of Photon-Counting CT and its Future Prospects" at JSMP, April 15, 2023 (Yokohama, Kanagawa)
+- "All about Photon Counting CT Technology" at JRC, April 15, 2023 (Yokohama, Kanagawa)
 - "Photon counting CT" at JAMIT, July 28, 2023 (Suita, Osaka)
 
 ## Links
