@@ -12,10 +12,10 @@ Toshihide Itoh is a medical imaging scientist in X-ray computed tomography. He h
 
 ## Upcoming talks
 
-- "Frontiers in Computed Tomography: Research Directions with Photon Counting CT - Perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"}, April 14, 2023 (Yokohama, Kanagawa, Japan)
-- "Principle of Photon-Counting CT and its Future Prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}, April 15, 2023 (Yokohama, Kanagawa, Japan)
-- "All about Photon Counting CT Technology" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, April 15, 2023 (Yokohama, Kanagawa, Japan)
-- "Photon counting CT" at [JAMIT](http://jamit.jp/meetinginfo/index.html){:target="_blank"}, July 28, 2023 (Suita, Osaka, Japan)
+- "Frontiers in computed tomography: research directions with photon-counting CT - perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"}, April 14, 2023 (Yokohama, Kanagawa, Japan)
+- "Principle of photon-counting CT and its future prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}, April 15, 2023 (Yokohama, Kanagawa, Japan)
+- "All about the technology of photon-counting CT" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, April 15, 2023 (Yokohama, Kanagawa, Japan)
+- "Photon-counting CT" at [JAMIT](http://jamit.jp/meetinginfo/index.html){:target="_blank"}, July 28, 2023 (Suita, Osaka, Japan)
 
 ## Links
 - [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
