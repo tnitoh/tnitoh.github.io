@@ -17,7 +17,7 @@ Toshihide Itoh, Ph.D. is a scientist of medical imaging and physics in X-ray com
 - April 14, 2023: "Frontiers in computed tomography: research directions with photon-counting CT - perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"} (Yokohama, Kanagawa, Japan)
 - April 15, 2023: "Principle of photon-counting CT and its future prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}  (Yokohama, Kanagawa, Japan)
 - April 15, 2023: "All about the technology of photon-counting CT" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, (Yokohama, Kanagawa, Japan)
-- July 28, 2023: "Photon-counting CT" at [JAMIT](http://jamit.jp/meetinginfo/index.html){:target="_blank"}, (Suita, Osaka, Japan)
+- July 28, 2023: "Photon-counting CT" at [JAMIT](http://jamit.jp/english/index.html){:target="_blank"}, (Suita, Osaka, Japan)
 
 ## Links
 - [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
