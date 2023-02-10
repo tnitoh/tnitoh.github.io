@@ -7,7 +7,11 @@ EN / [JP](index_jp.md)
 
 # Toshihide Itoh
 
-Toshihide Itoh, Ph.D. is a scientist of medical imaging and physics in X-ray computed tomography. He has worked in the fields of X-ray physics, X-ray simulation, detector physics, data processing, image reconstruction, and spectral imaging. Recent his research has focused on photon counting detector CT.
+Toshihide Itoh, Ph.D. is a scientist of medical imaging and physics in X-ray computed tomography. 
+
+He has worked in the fields of X-ray physics, X-ray simulation, detector physics, data processing, image reconstruction, and spectral imaging. 
+
+Recent his research has focused on photon counting detector CT.
 
 ## Affiliation and position
 - Chief Scientist of X-ray computed tomography at CT-R&D, Siemens Healthineers, Tokyo Japan.
