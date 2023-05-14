@@ -5,7 +5,7 @@ title: Toshihide Itoh's web page
 
 [EN](index.md) / JP
 
-# 伊藤 俊英
+# 伊藤 俊英 (いとうとしひで)
 
 医用画像・物理工学の研究者（Ph.D.）
 
