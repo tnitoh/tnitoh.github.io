@@ -30,5 +30,3 @@ EN / [JP](index_jp.md)
 
 ## Contact
 toshihide.itoh @ siemens-healthineers.com
-
-toshihide.itoh @ gmail.com

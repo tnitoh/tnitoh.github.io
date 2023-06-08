@@ -31,5 +31,3 @@ title: Toshihide Itoh's web page
 
 ## 連絡先
 toshihide.itoh @ siemens-healthineers.com
-
-toshihide.itoh @ gmail.com
