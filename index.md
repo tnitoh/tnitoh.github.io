@@ -15,13 +15,13 @@ EN / [JP](index_jp.md)
 ## Affiliation and position
 - Chief Scientist of X-ray computed tomography at CT-R&D, Siemens Healthineers, Tokyo Japan.
 
-## Upcoming talks
-- None
+## <!--Upcoming talks-->
+- <!--None-->
 
-## Past talks
-- April 15, 2023: "All about Photon-counting CT "NAEOTOM Alpha" and its technology" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, (Yokohama, Kanagawa, Japan)
-- April 15, 2023: "Principle of photon-counting CT and its future prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}  (Yokohama, Kanagawa, Japan)
-- April 14, 2023: "Frontiers in computed tomography: research directions with photon-counting CT - perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"} (Yokohama, Kanagawa, Japan)
+## <!--Past talks-->
+- <!--April 15, 2023: "All about Photon-counting CT "NAEOTOM Alpha" and its technology" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, (Yokohama, Kanagawa, Japan)-->
+- <!--April 15, 2023: "Principle of photon-counting CT and its future prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}  (Yokohama, Kanagawa, Japan)-->
+- <!--April 14, 2023: "Frontiers in computed tomography: research directions with photon-counting CT - perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"} (Yokohama, Kanagawa, Japan)-->
 
 ## Links
 - [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
