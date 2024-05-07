@@ -31,4 +31,4 @@ EN / [JP](index_jp.md)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}
 
 ## Contact
-toshihide.itoh @ siemens-healthineers.com
+toshihide.itoh @ gmail.com

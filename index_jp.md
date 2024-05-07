@@ -20,4 +20,4 @@ title: Toshihide Itoh's web page
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}
 
 ## 連絡先
-toshihide.itoh @ siemens-healthineers.com
+toshihide.itoh @ gmail.com
