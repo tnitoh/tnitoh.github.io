@@ -3,7 +3,7 @@ layout: default
 title: Toshihide Itoh's web page
 ---
 
-[EN](index.md) / JP
+[EN](index.md) / [JP](index_jp.md)
 
 ## ご連絡を頂くにあたって……
 
