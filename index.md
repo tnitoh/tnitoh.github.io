@@ -3,32 +3,19 @@ layout: default
 title: Toshihide Itoh's web page
 ---
 
-EN / [JP](index_jp.md)
+# 伊藤 俊英 (Toshihide Itoh)
 
-# Toshihide Itoh
+- 医用画像工学の研究者（Ph.D.）
+- 専門は、X線CTの物理全般、物理シミュレーション、検出器物性物理、計測データプロセッシング、データ補正や画像再構成のアルゴリズム、スペクトラルイメージングなど。
+- 現在はフォトンカウンティングCTの研究に従事 (>10年)。
 
-- Toshihide Itoh, Ph.D. is a scientist of medical imaging and physics in X-ray computed tomography. 
+## 所属
+- シーメンスヘルスケア株式会社 CT-R&D、チーフサイエンティスト
 
-- He has worked in the fields of X-ray physics, X-ray simulation, detector physics, data processing, image reconstruction, and spectral imaging. Recent his research has focused on photon counting detector CT.
-
-
-## Affiliation and position
-- Chief Scientist of X-ray computed tomography at CT-R&D, Siemens Healthineers, Tokyo Japan.
-
-<!-- ##Upcoming talks-->
-<!--None-->
-
-<!--## Past talks-->
-<!--April 15, 2023: "All about Photon-counting CT "NAEOTOM Alpha" and its technology" at [JRC](https://site2.convention.co.jp/jrs82/english/){:target="_blank"}, (Yokohama, Kanagawa, Japan)-->
-
-<!--April 15, 2023: "Principle of photon-counting CT and its future prospects" at [JSMP](https://www.jsmp.org/conf/125/en/){:target="_blank"}  (Yokohama, Kanagawa, Japan)-->
-
-<!--April 14, 2023: "Frontiers in computed tomography: research directions with photon-counting CT - perspectives from R&D" at [JSRT](https://www.jsrt.or.jp/gmeeting/soukai79eng/){:target="_blank"} (Yokohama, Kanagawa, Japan)-->
-
-## Links
+## リンク
 - [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}
 
-## Contact
+## 連絡先
 [toshihide.itoh @ gmail.com](contact_note.md)
