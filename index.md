@@ -20,4 +20,5 @@ title: Toshihide Itoh's web page
 
 ## 連絡先
 執筆、講演、講義などの依頼はこちらからお願いします。
+
 [toshihide.itoh @ gmail.com](contact_note.md)
