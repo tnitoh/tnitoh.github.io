@@ -19,4 +19,5 @@ title: Toshihide Itoh's web page
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}
 
 ## 連絡先
+執筆、講演、講義などの依頼はこちらからお願いします。
 [toshihide.itoh @ gmail.com](contact_note.md)
