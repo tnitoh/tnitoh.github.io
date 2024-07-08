@@ -9,7 +9,7 @@ title: Toshihide Itoh's web page
 
 - 2010年からはフォトンカウンティングCTの研究開発に従事しています。
   
-- 専門はX線CT装置の研究開発です。特に以下のような計測に関わる分野を得意としています。
+- 専門はX線CT装置の研究開発です。特に以下のような計測に関わる領域を得意としています。
   
   - 物理シミュレーション
   - 検出器物性物理解析
@@ -26,7 +26,7 @@ title: Toshihide Itoh's web page
 ## 業績等の詳細
 - [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}
+<!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
 
 
 ## 連絡先
