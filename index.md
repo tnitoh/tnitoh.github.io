@@ -29,6 +29,6 @@ title: Toshihide Itoh's web page
 
 
 ## 連絡先
-- 執筆、講演、講義、開発支援などの仕事のご依頼はこちらからお願いします。
+- 仕事（執筆、講演、研究開発コンサルテーションなど）のご依頼はこちらからお願いします。
   
   [toshihide.itoh @ gmail.com](contact_note.md)
