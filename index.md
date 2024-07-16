@@ -23,7 +23,7 @@ title: Toshihide Itoh's web page
 
 
 ## 業績等の詳細
-- [Research map](https://researchmap.jp/tnitoh?lang=en){:target="_blank"}
+- [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 <!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
 
