@@ -3,7 +3,7 @@ layout: default
 title: Toshihide Itoh's web page
 ---
 
-# 伊藤 俊英 (Toshihide Itoh, Ph.D.)
+# 伊藤 俊英 / Toshihide Itoh, Ph.D.
 
 
 - 国内外の企業でX線CT装置の開発に30年以上、そして2010年からはフォトンカウンティングCTの研究開発に従事。
