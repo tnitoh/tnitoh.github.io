@@ -41,7 +41,7 @@ title: Toshihide Itoh
 - 2024年7月〜: 研究開発・学術研究のコンサルタント（フリーランス）
 
 
-## 業績等
+## 業績・実績
 - [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 <!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
