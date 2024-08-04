@@ -54,4 +54,4 @@ title: Toshihide Itoh
 
 [Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"}
 
-![signal](https://github.com/tnitoh/tnitoh.github.io/blob/main/signal-logo.png)
+![(https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"}](https://github.com/tnitoh/tnitoh.github.io/blob/main/signal-logo.png)
