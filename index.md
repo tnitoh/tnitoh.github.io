@@ -27,12 +27,12 @@ title: Toshihide Itoh
 - CdTe、Si検出器の物性解析
 
 ### 研究・開発チームマネージメント
-- R&Dチーム運営、プロジェクト管理など
+- R&Dチーム運営、プロジェクト管理など。
 
 ### 学術研究マネージメント
-- 医学・工学分野の学術研究の総合的なマネージメント
-  - 研究テーマの選択・立案から実践、グランド取得、学会発表、論文作成、などをカバー
-- 大学、研究機関を対象とした学術研究マネージメント支援・教育など
+- 医学・工学分野の学術研究の総合的なマネージメント。
+  - 研究テーマの選択・立案から実践、グランド取得、学会発表、論文作成、などをカバー。
+- 大学、研究機関を対象とした学術研究マネージメント支援・教育など。
 
 
 ## 職歴
@@ -53,3 +53,4 @@ title: Toshihide Itoh
 [toshihide.itoh @ gmail.com](contact_note.md)
 
 <!-- [Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"} -->
+[![Signal](https://github.com/tnitoh/tnitoh.github.io/blob/main/signal-logo.png)](xxx)
