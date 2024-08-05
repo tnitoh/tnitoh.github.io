@@ -55,3 +55,5 @@ title: Toshihide Itoh
 [Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"}
 
 ![Signal](signal-logo.png)((https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"})
+
+<a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O"><img src="signal-logo.png"></a>
