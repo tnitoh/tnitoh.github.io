@@ -53,4 +53,4 @@ title: Toshihide Itoh
 [toshihide.itoh @ gmail.com](contact_note.md)
 
 <!-- [Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"} -->
-[![Signal](https://github.com/tnitoh/tnitoh.github.io/blob/main/signal-logo.png)]((https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"})
+[![Signal](https://github.com/tnitoh/blob/main/signal-logo.png)]((https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"})
