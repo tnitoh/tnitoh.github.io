@@ -52,8 +52,8 @@ title: Toshihide Itoh
 
 [toshihide.itoh @ gmail.com](contact_note.md)
 
-[Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"}
-
-![Signal](signal-logo.png)((https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"})
-
 <a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal-logo.png"></a>
+
+<!--[Signal](https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O){:target="_blank"}-->
+
+
