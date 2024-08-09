@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toshihide Itoh's web page
+title: Toshihide Itoh
 ---
 
 [Home](index.md)
