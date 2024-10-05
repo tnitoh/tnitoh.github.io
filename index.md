@@ -53,7 +53,6 @@ title: Toshihide Itoh
 
 
 ## 連絡先
-仕事のご依頼・ご相談はこちらのアドレスまでお願いします.
 
 toshihide.itoh(at)gmail.com
 
