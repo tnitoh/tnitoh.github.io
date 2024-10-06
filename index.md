@@ -54,7 +54,7 @@ title: Toshihide Itoh
 
 ## 連絡先
 
-toshihide.itoh(at)gmail.com
+toshihide.itoh＠gmail.com
 
 [ご連絡いただくにあたってのお願い](contact_note.md)
 
