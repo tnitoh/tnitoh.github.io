@@ -5,7 +5,7 @@ title: Toshihide Itoh
 
 # 伊藤 俊英 / Toshihide Itoh, Ph.D.
 
-![Itoh](Itoh.png)
+![Toshihide Itoh, Ph.D.](Toshi_Itoh.png)
 
 **独立研究者 / Independent Researcher**
 
