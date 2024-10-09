@@ -9,10 +9,21 @@ title: Toshihide Itoh
 
 **独立研究者 / Independent Researcher**
 
-- 医療機器関連企業における**X線CT装置の研究開発**支援、研究所や大学等のアカデミアにおける**学術研究**のコンサルティングを法人・個人を問わず幅広くお受けしています。
-- 関連分野に関する講演や執筆などもご相談ください。
+独立研究者としての活動のほか、X線CT装置、医用画像工学全般に関するコンサルティングをおこなっています。以下のような案件があれば法人・個人に関わらずご相談ください。
 
-  
+- 医療機器関連企業におけるX線CT装置の研究開発
+- 研究所や大学等のアカデミアにおける学術研究
+- 関連分野に関する講演や執筆
+
+## 連絡先
+
+toshihide.itoh＠gmail.com
+<!--
+<a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal_logo.png"></a>
+-->
+[ご連絡いただくにあたってのお願い](contact_note.md)
+
+
 ## 経歴概略
 
 - 国内外の企業でX線CT装置の開発業務に30年以上、そして2010年からは**フォトンカウンティングCT**の研究開発に従事。
@@ -48,21 +59,10 @@ title: Toshihide Itoh
 ## 職歴
 - 〜2001年9月: 株式会社日立メディコ CT-R&D
 - ～2024年7月: シーメンスヘルスケア株式会社 CT-R&D、チーフサイエンティスト
-- 2024年7月〜: 研究開発・学術研究コンサルタント（フリーランス）
+- 2024年7月〜: 独立研究者、研究開発・学術研究コンサルタント（フリーランス）
 
 
 ## 実績
 - [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 <!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
-
-
-## 連絡先
-
-toshihide.itoh＠gmail.com
-
-[ご連絡いただくにあたってのお願い](contact_note.md)
-
-<!--
-<a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal_logo.png"></a>
--->
