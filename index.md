@@ -2,6 +2,7 @@
 layout: default
 title: Toshihide Itoh
 ---
+<hr>
 
 # 伊藤 俊英 / Toshihide Itoh, Ph.D.
 
@@ -22,7 +23,8 @@ toshihide.itoh＠gmail.com
 <a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal_logo.png"></a>
 -->
 [ご連絡いただくにあたってのお願い](contact_note.md)
-
+<br>
+<hr>
 
 ## 経歴概略
 
