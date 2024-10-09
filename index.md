@@ -15,17 +15,6 @@ title: Toshihide Itoh
 - 研究所や大学等のアカデミアにおける学術研究
 - 関連分野に関する講演や執筆
 
-## 連絡先
-
-toshihide.itoh＠gmail.com
-<!--
-<a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal_logo.png"></a>
--->
-
-[ご連絡いただくにあたってのお願い](contact_note.md)
-<br>
-<hr>
-
 ## 経歴概略
 
 - 国内外の企業でX線CT装置の開発業務に30年以上、そして2010年からは**フォトンカウンティングCT**の研究開発に従事。
@@ -68,3 +57,12 @@ toshihide.itoh＠gmail.com
 - [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 <!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
+
+## 連絡先
+
+toshihide.itoh＠gmail.com
+<!--
+<a href="https://signal.me/#eu/0PxDfmg6zt5BLhErTWGJ2B8CpgqLLxs-mf7HnWFgV419OTwldstGhYAcN4jBTN_O" target="_blank"><img src="signal_logo.png"></a>
+-->
+
+[ご連絡いただくにあたってのお願い](contact_note.md)
