@@ -46,10 +46,11 @@ title: Toshihide Itoh
 - マーケット分析に基づいた中長期開発計画の立案。
 - R&Dチーム運営、プロジェクト管理など。
 
+
 ### 3. 学術研究支援・教育
-- 医学・工学分野の学術研究の総合的なマネージメント。
+- 大学、研究機関における医学・工学分野の学術研究支援・教育など。
   - 研究テーマの選択・立案から実践、科研費取得・学会発表・論文作成の指導など。
-- 大学、研究機関を対象とした学術研究関連の教育（研究不正・研究倫理、学位取得）など。
+  - 研究不正・研究倫理教育、学位取得指導など。
 
 
 ## 職歴
@@ -62,6 +63,7 @@ title: Toshihide Itoh
 - [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
 - [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
 <!--## [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36983520100){:target="_blank"}-->
+
 
 ## 連絡先
 
