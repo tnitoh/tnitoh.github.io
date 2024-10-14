@@ -5,11 +5,9 @@ title: Toshihide Itoh
 
 # 伊藤 俊英 (Toshihide Itoh, Ph.D.)
 
-![Toshihide Itoh, Ph.D.](Toshi_Itoh.png)
-
-**独立系研究者 (Independent Researcher)、研究開発コンサルタント (R&D Consultation)**
-
-<br>
+![Toshihide Itoh, Ph.D.](Toshi_Itoh.png) <br>
+**独立系研究者 (Independent Researcher)** <br>
+**研究開発コンサルタント (R&D Consultation)** <br>
 
 独立系研究者としての活動のほか、X線CT装置の研究開発、医用画像工学全般に関するコンサルティングをおこなっています。以下のような案件があれば法人・個人に関わらずご相談ください。
 
