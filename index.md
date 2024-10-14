@@ -7,11 +7,11 @@ title: Toshihide Itoh
 
 ![Toshihide Itoh, Ph.D.](Toshi_Itoh.png)
 
-**独立系研究者 (Independent Researcher), 研究開発コンサルティング (R&D Consultation)**
+**独立系研究者 (Independent Researcher), 研究開発コンサルタント (R&D Consultation)**
 
 <br>
 
-独立系研究者としての活動のほか、X線CT装置、医用画像工学全般に関するコンサルティングをおこなっています。以下のような案件があれば法人・個人に関わらずご相談ください。
+独立系研究者としての活動のほか、X線CT装置の研究開発、医用画像工学全般に関するコンサルティングをおこなっています。以下のような案件があれば法人・個人に関わらずご相談ください。
 
 - 医療機器関連企業におけるX線CT装置の研究開発
 - 研究所や大学等のアカデミアにおける学術研究
