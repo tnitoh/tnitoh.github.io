@@ -7,7 +7,7 @@ title: Toshihide Itoh
 
 ![Toshihide Itoh, Ph.D.](Toshi_Itoh.png) <br>
 **独立系研究者 (Independent Researcher)** <br>
-**研究開発コンサルタント (R&D Consultation)**
+**研究開発コンサルタント (R&D Consultant)**
 
 <br>
 
