@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toshihide Itoh
+title: Toshihide Itoh, Ph.D.
 ---
 
 # 伊藤 俊英 (Toshihide Itoh, Ph.D.)
@@ -47,8 +47,7 @@ title: Toshihide Itoh
 - R&Dチーム運営、プロジェクト管理など。
 
 
-### 3. 学術研究支援・教育
-- 大学、研究機関における医学・工学分野の学術研究支援・教育など。
+### 3. 医学・工学分野の学術研究支援・教育
 - 研究テーマの選択、研究計画立案から実践、科研費取得・学会発表・論文作成、学位取得の指導など。
 
 
