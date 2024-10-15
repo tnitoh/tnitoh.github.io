@@ -6,7 +6,7 @@ title: Toshihide Itoh
 # 伊藤 俊英 (Toshihide Itoh, Ph.D.)
 
 ![Toshihide Itoh, Ph.D.](Toshi_Itoh.png) <br>
-**独立系研究者 (Independent Researcher)** <br>
+**独立研究者 (Independent Researcher)** <br>
 **研究開発コンサルタント (R&D Consultant)**
 
 <br>
@@ -56,7 +56,7 @@ title: Toshihide Itoh
 ## 職歴
 - 〜2001年9月: 株式会社日立メディコ CT事業部
 - ～2024年7月: シーメンスヘルスケア株式会社 CT-R&D、チーフサイエンティスト
-- 2024年7月〜: 独立系研究者 / 研究開発コンサルタント（フリーランス）
+- 2024年7月〜: 独立研究者 / 研究開発コンサルタント（フリーランス）
 
 
 ## 実績
