@@ -3,11 +3,11 @@ layout: default
 title: Website of Toshihide Itoh, Ph.D.
 ---
 
-# 伊藤俊英 (Toshihide Itoh, Ph.D.)
+# 伊藤俊英 / Toshihide Itoh, Ph.D.
 
 ![Toshihide Itoh, Ph.D.](Toshi_Itoh.png) <br>
-**独立研究者 (Independent Researcher)** <br>
-**研究開発コンサルタント (R&D Consultant)**
+**独立研究者 / Independent Researcher** <br>
+**研究開発コンサルタント / R&D Consultant**
 
 <br>
 
