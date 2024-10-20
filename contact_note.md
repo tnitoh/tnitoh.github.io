@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Website of Toshihide Itoh, Ph.D.
+title: Website of Toshihide Itoh
 ---
 
 [Back](index.md)
