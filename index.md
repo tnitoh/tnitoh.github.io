@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Toshihide Itoh, Ph.D.
+title: Home page of Toshihide Itoh, Ph.D.
 ---
 
 # 伊藤 俊英 (Toshihide Itoh, Ph.D.)
