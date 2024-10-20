@@ -5,8 +5,7 @@ title: Website of Toshihide Itoh, Ph.D.
 
 # 伊藤俊英 / Toshihide Itoh, Ph.D.
 
-<!--![Toshihide Itoh, Ph.D.](Toshi_Itoh.png) <br> -->
-<img src='Photo_Itoh.png' width='25%'> <br>
+<img src='toshi_itoh.png' width='25%'> <br>
 **独立研究者 / Independent Researcher** <br>
 **研究開発コンサルタント / R&D Consultant**
 
