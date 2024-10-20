@@ -7,8 +7,7 @@ title: Website of Toshihide Itoh, Ph.D.
 
 <img src='toshi_itoh.png' width='25%'> <br>
 **独立研究者 / Independent Researcher** <br>
-**研究開発コンサルタント / R&D Consultant**
-
+**研究開発コンサルタント / R&D Consultant** <br>
 <br>
 
 独立系研究者としての活動のほか、下記のような案件（詳細は「専門分野」を参照）に対するコンサルティング等をおこなっています。
