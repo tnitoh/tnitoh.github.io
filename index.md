@@ -6,14 +6,22 @@ title: Website of Toshihide Itoh
 # 伊藤俊英 / Toshihide Itoh, Ph.D.
 
 <table><tr>
-    <td><img src='toshi_itoh.png' width='180px'></td>
-    <td valign='bottom'><b>独立研究者 / Independent Researcher</b><br><b>研究開発コンサルタント / R&D Consultant</b></td>
+    <td>
+        <img src='toshi_itoh.png' width='180px'>
+    </td>
+    <td valign='bottom'>
+        <b>独立研究者 / Independent Researcher</b><br>
+        <b>研究開発コンサルタント / R&D Consultant</b><br>
+        <br>
+    </td>
 </tr></table>
 
+<!--
 <img src='toshi_itoh.png' width='180px'> <br>
 **独立研究者 / Independent Researcher** <br>
 **研究開発コンサルタント / R&D Consultant** <br>
 <br>
+-->
 
 独立系研究者としての活動のほか、下記のような案件（詳細は「専門分野」を参照）に対するコンサルティング等をおこなっています。
 
