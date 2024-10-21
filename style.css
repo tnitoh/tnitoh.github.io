@@ -163,7 +163,7 @@ table tr {
 table tr:nth-child(2n),
 thead {
     /* background-color: #f8f8f8; (removed) */
-    background-color: transparent
+    background-color: transparent /* (added) */
 }
 table th {
     font-weight: bold;
