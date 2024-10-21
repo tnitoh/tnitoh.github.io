@@ -9,9 +9,9 @@ title: Website of Toshihide Itoh
     <td>
         <img src='toshi_itoh.png' width='180px'>
     </td>
-    <td valign='bottom' fontsize='18px'>
-        <b>独立研究者 / Independent Researcher</b><br>
-        <b>研究開発コンサルタント / R&D Consultant</b><br>
+    <td valign='bottom'>
+        <font size=+2><b>独立研究者 / Independent Researcher</b><br>
+        <b>研究開発コンサルタント / R&D Consultant</b><br></font>
         <br>
     </td>
 </tr></table>
