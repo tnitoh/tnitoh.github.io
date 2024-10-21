@@ -65,7 +65,3 @@ title: Website of Toshihide Itoh
 toshihide.itoh＠gmail.com
 
 [ご連絡いただくにあたってのお願い](contact_note.md)
-
-| <img src='toshi_itoh.png' width='180px'> | 伊藤俊英 / Toshihide Itoh, Ph.D. <br><br>独立研究者 / Independent Researcher <br>研究開発コンサルタント / R&D Consultant |
-|:--- | :---|
-| | |
