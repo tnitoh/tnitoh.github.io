@@ -69,16 +69,9 @@ toshihide.itoh＠gmail.com
 ## テスト
 <table>
   <tr>
-    <td rowspan='2'>
-      <img src='toshi_itoh.png' width='180px'>
-    </td>
-    <td>
-      <h1>伊藤俊英 / Toshihide Itoh, Ph.D.</h1>
-    </td>
+    <td rowspan='2'><img src='toshi_itoh.png' width='180px'></td>
+    <td><h1>伊藤俊英 / Toshihide Itoh, Ph.D.</h1></td>
   <tr>
-    <td>      
-      <b>独立研究者 / Independent Researcher</b><br>
-      <b>研究開発コンサルタント / R&D Consultant</b>
-    </td>
+    <td><b>独立研究者 / Independent Researcher</b><br><b>研究開発コンサルタント / R&D Consultant</b></td>
   </tr>
 </table>
