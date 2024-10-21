@@ -162,7 +162,7 @@ table tr {
 }
 table tr:nth-child(2n),
 thead {
-    background-color: #f8f8f8;
+    /* background-color: #f8f8f8; */
 }
 table th {
     font-weight: bold;
