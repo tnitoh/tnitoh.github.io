@@ -76,9 +76,7 @@ toshihide.itoh＠gmail.com
     </td>
   <tr>
     <td>      
-      独立研究者 / Independent Researcher<br>
-      研究開発コンサルタント / R&D Consultant
+      **独立研究者 / Independent Researcher**<br>
+      **研究開発コンサルタント / R&D Consultant**
     </td>
   </tr>
-</table>
-
