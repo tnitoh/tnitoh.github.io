@@ -110,6 +110,7 @@ dl,
 table{
     margin-top: 0;
     margin-bottom: 10px;
+    border: none;
 }
 li>ol,
 li>ul {
@@ -151,6 +152,7 @@ blockquote blockquote {
 table {
     padding: 0;
     word-break: initial;
+    border: none;
 }
 table tr {
     /* border: 1px solid #dfe2e5; */
@@ -179,10 +181,12 @@ table td {
 table th:first-child,
 table td:first-child {
     margin-top: 0;
+    border: none;
 }
 table th:last-child,
 table td:last-child {
     margin-bottom: 0;
+    border: none;
 }
 
 .CodeMirror-lines {
