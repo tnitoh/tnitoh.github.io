@@ -65,3 +65,6 @@ title: Website of Toshihide Itoh
 toshihide.itoh＠gmail.com
 
 [ご連絡いただくにあたってのお願い](contact_note.md)
+
+| aaa | bbb |
+|:--- | :---|
