@@ -100,7 +100,7 @@ h5 {
 h6 {
    font-size: .85em;
    font-weight: 600;
-    color: #777;
+   color: #777;
 }
 p,
 blockquote,
@@ -110,7 +110,7 @@ dl,
 table{
     margin-top: 0;
     margin-bottom: 10px;
-    border: none;
+    border: 0;
 }
 li>ol,
 li>ul {
@@ -152,7 +152,7 @@ blockquote blockquote {
 table {
     padding: 0;
     word-break: initial;
-    border: none;
+    border: 0;
 }
 table tr {
     /* border: 1px solid #dfe2e5; */
@@ -167,26 +167,26 @@ thead {
 table th {
     font-weight: bold;
     /* border: 1px solid #dfe2e5; */
-    border: none;
+    border: 0;
     border-bottom: 0;
     margin: 0;
     padding: 6px 13px;
 }
 table td {
     /* border: 1px solid #dfe2e5; */
-    border: none;
+    border: 0;
     margin: 0;
     padding: 6px 13px;
 }
 table th:first-child,
 table td:first-child {
     margin-top: 0;
-    border: none;
+    border: 0;
 }
 table th:last-child,
 table td:last-child {
     margin-bottom: 0;
-    border: none;
+    border: 0;
 }
 
 .CodeMirror-lines {
