@@ -110,7 +110,7 @@ dl,
 table{
     margin-top: 0;
     margin-bottom: 10px;
-    border: 0;
+    border: 0;  /* (added) */
 }
 li>ol,
 li>ul {
@@ -152,41 +152,41 @@ blockquote blockquote {
 table {
     padding: 0;
     word-break: initial;
-    border: 0;
+    border: 0;  /* (added) */
 }
 table tr {
-    /* border: 1px solid #dfe2e5; */
-    border: none;
+    /* border: 1px solid #dfe2e5; (removed) */
+    border: none;  /* (added) */
     margin: 0;
     padding: 0;
 }
 table tr:nth-child(2n),
 thead {
-    /* background-color: #f8f8f8; */
+    /* background-color: #f8f8f8; (removed) */
 }
 table th {
     font-weight: bold;
-    /* border: 1px solid #dfe2e5; */
-    border: 0;
+    /* border: 1px solid #dfe2e5; (removed) */
+    border: 0;  /* (added) */
     border-bottom: 0;
     margin: 0;
     padding: 6px 13px;
 }
 table td {
-    /* border: 1px solid #dfe2e5; */
-    border: 0;
+    /* border: 1px solid #dfe2e5; (removed) */
+    border: 0;  /* (added) */
     margin: 0;
     padding: 6px 13px;
 }
 table th:first-child,
 table td:first-child {
     margin-top: 0;
-    border: 0;
+    border: 0;  /* (added) */
 }
 table th:last-child,
 table td:last-child {
     margin-bottom: 0;
-    border: 0;
+    border: 0;  /* (added) */
 }
 
 .CodeMirror-lines {
