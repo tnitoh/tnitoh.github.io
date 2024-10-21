@@ -160,12 +160,11 @@ table tr {
     margin: 0;
     padding: 0;
 }
-/* (removed) 
 table tr:nth-child(2n),
 thead {
     /* background-color: #f8f8f8; (removed) */
+    background-color: transparent
 }
-*/
 table th {
     font-weight: bold;
     /* border: 1px solid #dfe2e5; (removed) */
