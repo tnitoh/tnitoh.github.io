@@ -66,6 +66,6 @@ toshihide.itoh＠gmail.com
 
 [ご連絡いただくにあたってのお願い](contact_note.md)
 
-| aaa | bbb |
+|  |  |
 |:--- | :---|
 | bbb | ccc |
