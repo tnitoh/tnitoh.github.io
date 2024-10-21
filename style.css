@@ -32,7 +32,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin-top: 30px;
+    margin-top: 24px;
     margin-bottom: 16px;
     font-weight: 600;
     line-height: 1.25;
@@ -70,7 +70,7 @@ h6 code {
     font-size: inherit;
 }
 h1 {
-    margin: .67em 0;
+    margin: .9em 0;
     padding-bottom: .3em;
     font-size: 2.2em;
     line-height: 1.25;
