@@ -70,12 +70,13 @@ h6 code {
     font-size: inherit;
 }
 h1 {
-    margin: .9em 0;
+    margin: .68em 0;
     padding-bottom: .3em;
     font-size: 2.2em;
     line-height: 1.25;
     font-weight: 600;
     border-bottom: 1px solid #eee;
+    padding-top: 1.5em;
 }
 h2 {
     font-size: 1.8em;
