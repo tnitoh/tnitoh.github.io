@@ -7,9 +7,9 @@ title: Website of Toshihide Itoh
 
 <table width='90%'><tr>
     <td>
-        <img src='toshi_itoh.png' width='180px'>
+        <img src='toshi_itoh.png' width='180px' align='right'>
     </td>
-    <td width='600px' valign='bottom'>
+    <td width='600px' valign='bottom' align='left'>
         <b>独立研究者 / Independent Researcher</b><br>
         <b>研究開発コンサルタント / R&D Consultant</b><br>
         <br>
