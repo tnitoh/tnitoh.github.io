@@ -7,7 +7,7 @@ title: Website of Toshihide Itoh
 
 <table width='90%'><tr>
     <td>
-        <img src='toshi_itoh.png' width='180px' align='right'>
+        <img src='toshi_itoh.png' width='180px' align='left'>
     </td>
     <td width='600px' valign='bottom' align='left'>
         <b>独立研究者 / Independent Researcher</b><br>
