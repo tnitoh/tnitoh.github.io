@@ -3,7 +3,7 @@ layout: default
 title: Website of Toshihide Itoh
 ---
 
-# 伊藤俊英 / Toshihide Itoh, Ph.D.
+# 伊藤 俊英 / Toshihide Itoh, Ph.D.
 
 <table width='95%'><tr>
     <td width='180px'>
