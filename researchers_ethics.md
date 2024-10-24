@@ -1,3 +1,10 @@
+---
+layout: default
+title: Website of Toshihide Itoh
+---
+
+[Back](index.md)
+
 # 研究者倫理に関する事例紹介
 
 ## ケース1: 共著者を密かに投稿論文の共著から除外した例
