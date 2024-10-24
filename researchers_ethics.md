@@ -5,7 +5,7 @@ title: Website of Toshihide Itoh
 
 [Back](index.md)
 
-# 研究者倫理に関する事例紹介
+# 研究者倫理違反の事例収集
 
 ## ケース1: 共著者の同意を得ずに共著から除外し論文を投稿
 （書きかけ）
