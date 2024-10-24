@@ -1,3 +1,10 @@
+---
+layout: default
+title: Website of Toshihide Itoh
+---
+
+[Back](index.md)
+
 # 研究者倫理
 
 - 研究者倫理に反する行為に「少しくらい」というような修飾語は存在しません。
