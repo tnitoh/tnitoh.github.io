@@ -53,7 +53,7 @@ title: Website of Toshihide Itoh
 
 ### 3. 医学・工学分野の学術研究支援・教育
 - 研究テーマの選択、研究計画立案から実践、科研費取得・学会発表・論文作成、学位取得の指導など。
-- 研究者倫理、研究における不正行為防止に関する教育。
+- [研究者倫理](researchers_ethics.md){:target='+blank'}、研究における不正行為防止に関する教育。
 
 ## 職歴
 - 〜2001年9月: 株式会社日立メディコ CT事業部設計部（計測システムアーキテクト）
@@ -61,8 +61,8 @@ title: Website of Toshihide Itoh
 - 2024年7月〜: 独立研究者 / 研究開発コンサルタント
 
 ## 実績
-- [Research map](https://researchmap.jp/tnitoh?lang=jp){:target="_blank"}
-- [ORCID](https://orcid.org/0000-0002-0283-1225){:target="_blank"}
+- [Research map](https://researchmap.jp/tnitoh?lang=jp){:target='_blank'}
+- [ORCID](https://orcid.org/0000-0002-0283-1225){:target='_blank'}
 
 ## 連絡先
 
